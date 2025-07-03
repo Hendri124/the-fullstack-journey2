@@ -1,1 +1,1 @@
-# the-fullstack-journey2
+Readme.md Pertama ku di github 
